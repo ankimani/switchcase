@@ -1,17 +1,21 @@
 # Using Switch Case
 
-One Paragraph of project description goes here
+This is a javascript switch case example
 
 ## Getting Started
 
-hese instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+I created a folder in my documents main folder.the folder name is switchcase.
+i then initilised the repository using git init after which i created the project files
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
+you need the follwing before working with js:
 ```
-Give examples
+1. sublime text
+sudo apt-get update
+sudo apt get intall sublimetextt
+2.google chrome
+3. git bash if using windows.
 ```
 
 ### Installing
